@@ -20,24 +20,22 @@ Uses:
 - Configuration files
 - Messaging
 
-| Goals | Uses |
-|-------|------|
-| - Improve the data signal-to-noise ratio | - Communication between people and machines |
-| - Be easy for humans to read and write   | - Document-oriented databases               |
-| - Keep it simple, but not too simple     | - Embedded data storage                     |
-| - Define common, useful datatypes        | - Configuration files                       |
-| - Be easy to parse and generate          | - Messaging                                 |
+| Goals |   | Uses |
+|-------|---|------|
+| - Improve the data signal-to-noise ratio |   | - Communication between people and machines |
+| - Be easy for humans to read and write   |   | - Document-oriented databases               |
+| - Keep it simple, but not too simple     |   | - Embedded data storage                     |
+| - Define common, useful datatypes        |   | - Configuration files                       |
+| - Be easy to parse and generate          |   | - Messaging                                 |
 
 | Goals | Uses |
 |-------|------|
-|
-- Improve the data signal-to-noise ratio
+| - Improve the data signal-to-noise ratio
 - Be easy for humans to read and write
 - Keep it simple, but not too simple
 - Define common, useful datatypes
 - Be easy to parse and generate
-|
-- Communication between people and machines
+| - Communication between people and machines
 - Document-oriented databases
 - Embedded data storage
 - Configuration files
