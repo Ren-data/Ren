@@ -20,34 +20,6 @@ Uses:
 - Configuration files
 - Messaging
 
-<p>
-    Goals:
-</p>
-
-<ul>
-    <li>Improve the data signal-to-noise ratio</li>
-    <li>Be easy for humans to read and write</li>
-    <li>Keep it simple, but not too simple</li>
-    <li>Define common, useful datatypes</li>
-    <li>Be easy to parse and generate</li>
-</ul>
-</div>
-
-<div style="float: left;margin-left: 40px;">
-<p>
-    Uses:
-</p>
-
-<ul>
-    <!-- <li>Data exchange between people and machines</li> -->
-    <li>Communication between people and machines</li>
-    <li>Document-oriented databases</li>
-    <li>Embedded data storage</li>
-    <!-- <li>Structured data storage</li> -->
-    <li>Configuration files</li>
-    <li>Messaging</li>
-</ul>
-
 It looks like this:
 
     "Ren Example 1"		; string
