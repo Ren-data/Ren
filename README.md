@@ -20,27 +20,33 @@ Uses:
 - Configuration files
 - Messaging
 
-| Goals |   | Uses |
-|-------|---|------|
-| - Improve the data signal-to-noise ratio |   | - Communication between people and machines |
-| - Be easy for humans to read and write   |   | - Document-oriented databases               |
-| - Keep it simple, but not too simple     |   | - Embedded data storage                     |
-| - Define common, useful datatypes        |   | - Configuration files                       |
-| - Be easy to parse and generate          |   | - Messaging                                 |
+<p>
+    Goals:
+</p>
 
-| Goals | Uses |
-|-------|------|
-| - Improve the data signal-to-noise ratio
-- Be easy for humans to read and write
-- Keep it simple, but not too simple
-- Define common, useful datatypes
-- Be easy to parse and generate
-| - Communication between people and machines
-- Document-oriented databases
-- Embedded data storage
-- Configuration files
-- Messaging
-|
+<ul>
+    <li>Improve the data signal-to-noise ratio</li>
+    <li>Be easy for humans to read and write</li>
+    <li>Keep it simple, but not too simple</li>
+    <li>Define common, useful datatypes</li>
+    <li>Be easy to parse and generate</li>
+</ul>
+</div>
+
+<div style="float: left;margin-left: 40px;">
+<p>
+    Uses:
+</p>
+
+<ul>
+    <!-- <li>Data exchange between people and machines</li> -->
+    <li>Communication between people and machines</li>
+    <li>Document-oriented databases</li>
+    <li>Embedded data storage</li>
+    <!-- <li>Structured data storage</li> -->
+    <li>Configuration files</li>
+    <li>Messaging</li>
+</ul>
 
 It looks like this:
 
