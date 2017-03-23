@@ -24,15 +24,15 @@ It looks like this:
 
     "Ren Example 1"		; string
     []					; empty list
-    #[]					; empty map
+    #()					; empty map
     [a 1 true #three]	; non-empty list
-    #[a: 1 b: "two"]	; non-empty map
+    #(a: 1 b: "two")	; non-empty map
     -42					; number
     98.6				; another number
     true				; literal true
     false				; literal false
     none				; literal nil/null/nada
-    #[					; a bigger map
+    #(					; a bigger map
         quote:	 "? saying: ^"? rocks!^""
         utf-8:    "^(CE91) to ^(cf89)"
         sci-phi:  0.1618e1
@@ -47,6 +47,6 @@ It looks like this:
         geo-pos:  43.6x116.7x817
         hex:      16#{DECAFBAD CAFE 00FF}
         base-64:  64#{UmVuIGlzIGRhdGE=}  
-    ]
+    )
 
 For more information, see http://www.ren-data.org
